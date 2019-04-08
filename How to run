@@ -1,0 +1,6 @@
+1. Download code to your computer
+2. Write "pip install pil" in command line to import pil library
+3. On the 4'th line change "picture.png" to path of your target picture
+4. On the 11'th line you may change the amount of Individuals(default:80)
+5. On the 11'th line you may change the number of generations(default: 10000)
+6. If you want to change frequency when new picture is saving, you may change line number 87 to the preferable one.
