@@ -1,7 +1,7 @@
 from PIL import Image, ImageDraw
 import random
 
-image = Image.open("cow100.jpg")
+image = Image.open("picture.jpg")
 width = image.size[0]
 height = image.size[1]
 pix = image.load()
